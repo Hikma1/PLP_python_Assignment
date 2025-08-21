@@ -1,22 +1,33 @@
-# Basic Calculator 🧮
+# Python Weekly Assignments 🐍
 
-This is a simple Python program created as part of the **PLP Intro to Python Assignment**.  
-It performs basic arithmetic operations based on user input.
+This repository contains my **weekly Python practice projects and assignments**.  
+Each week focuses on different Python concepts and exercises to improve my coding skills.
 
-## Features
-- Addition ➕  
-- Subtraction ➖  
-- Multiplication ✖️  
-- Division ➗ (with zero-check)
+---
 
-## How It Works
-1. The program asks the user to enter two numbers.  
-2. The user chooses an operation (`+`, `-`, `*`, `/`).  
-3. The program performs the calculation and displays the result.  
+## Week 1: Basic Python Practice
+**Description:**  
+Introductory exercises to practice Python basics such as input/output, arithmetic operations, and conditionals.
 
+**Files:**
+- `week1/assignment1.py`
 
+---
+
+## Week 2: List Operations
+**Description:**  
+Exercises to practice Python lists:
+- Create and modify lists
+- Insert and remove elements
+- Extend and sort lists
+- Find element indices
+
+**Files:**
+- `week2/assignment2.py`
+
+---
 
 ## How to Run
-Make sure you have Python installed, then run:
+1. Clone the repository:
 ```bash
-python calculator.py
+git clone https://github.com/Hikma1/Basic-calculator.git
