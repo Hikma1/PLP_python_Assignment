@@ -1,33 +1,42 @@
-# Python Weekly Assignments 🐍
+# PLP Assignments – Python Course  
 
-This repository contains my **weekly Python practice projects and assignments**.  
-Each week focuses on different Python concepts and exercises to improve my coding skills.
-
----
-
-## Week 1: Basic Python Practice
-**Description:**  
-Introductory exercises to practice Python basics such as input/output, arithmetic operations, and conditionals.
-
-**Files:**
-- `week1/assignment1.py`
+This repository contains my weekly assignments for the Python course under PLP.  
+Each week’s work is organized in its own folder with the corresponding Python files.  
 
 ---
 
-## Week 2: List Operations
-**Description:**  
-Exercises to practice Python lists:
-- Create and modify lists
-- Insert and remove elements
-- Extend and sort lists
-- Find element indices
+## 📂 Repository Structure
+PLP-Assignments-Python
+│── week-1/
+│ └── <file-name>.py
+│── week-2/
+│ └── <file-name>.py
+│── week-3/
+│ └── function.py
+│── week-4/
+│ └── <file-name>.py
+│── ...
 
-**Files:**
-- `week2/assignment2.py`
 
 ---
 
-## How to Run
+## 📌 Assignments  
+
+### Week 1
+- `basic_calculator.py` – A simple calculator program that performs basic arithmetic operations.  
+
+### Week 2
+- `...` – (Add short description of your assignment here)  
+
+### Week 3
+- `function.py` – Demonstrates the use of Python functions.  
+
+### Week 4
+- *(to be added)*  
+
+---
+
+## 🚀 How to Run
 1. Clone the repository:
-```bash
-git clone https://github.com/Hikma1/Basic-calculator.git
+   ```bash
+   git clone https://github.com/Hikma1/Basic-calculator.git
